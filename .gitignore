@@ -1,0 +1,5 @@
+data
+RSEM-1.3.3.tar.gz
+normalized_counts.csv
+deseq-results-ordered.csv
+get_integers.R
